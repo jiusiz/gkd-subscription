@@ -5,6 +5,21 @@ export default defineGkdApp({
   name: '拷貝漫畫',
   groups: [
     {
+      key: 0,
+      name: '开屏广告',
+      actionDelay: 400,
+      rules: [
+        {
+          key: 0,
+          name: '广告-1',
+          fastQuery: true,
+          activityIds: 'com.yifan.yf_ads.activity.YFSplashActivity',
+          matches: ['TextView[id="com.copymanga.app:id/tev_countdown"]'],
+          snapshotUrls: '',
+        },
+      ],
+    },
+    {
       key: 1,
       name: '全屏广告-弹窗广告',
       actionDelay: 400,
