@@ -15,7 +15,7 @@ export default defineGkdApp({
           fastQuery: true,
           activityIds: 'com.yifan.yf_ads.activity.YFSplashActivity',
           matches: ['TextView[id="com.copymanga.app:id/tev_countdown"]'],
-          snapshotUrls: '',
+          snapshotUrls: [],
         },
       ],
     },
