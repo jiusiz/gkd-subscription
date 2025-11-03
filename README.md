@@ -1,5 +1,8 @@
 # gkd-subscription
 
+## gkd下载地址
+[https://github.com/gkd-kit/gkd/releases](https://github.com/gkd-kit/gkd/releases)
+
 ## 订阅链接
 
 ```txt
