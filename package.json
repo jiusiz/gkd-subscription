@@ -50,7 +50,7 @@
     "node": "24.6.0",
     "pnpm": "10.14.0"
   },
-  "packageManager": "pnpm@10.14.0",
+  "packageManager": "pnpm@10.20.0",
   "engines": {
     "node": ">=22"
   }
